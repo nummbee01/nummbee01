@@ -18,12 +18,6 @@ Security and systems. Kathmandu.
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nummbee01/nummbee01/output/github-snake.svg">
 </picture>
 
-## Achievements
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nummbee01&theme=flat&column=6&margin-w=10)
-
-Achievements are awarded by GitHub for actions such as merging pull requests, co-authored commits and quick issue closes. Enable display at Settings, Public profile, Include achievements on your profile.
-
 ## Contact
 
 GitHub: [@nummbee01](https://github.com/nummbee01)
