@@ -1,6 +1,6 @@
 # Binam Adhikari
 
-Security and systems. Kathmandu.
+Security and systems.
 
 ## Work
 
