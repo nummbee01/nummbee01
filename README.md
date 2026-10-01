@@ -1,5 +1,3 @@
-# Binam Adhikari
-
 Security and systems.
 
 ## Work
